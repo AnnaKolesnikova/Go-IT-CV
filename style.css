@@ -1,0 +1,166 @@
+body {
+    font-family: "montserrat", "sans-serif";
+    background: #f5f7fa;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    margin: 0 auto;
+    width: 1200px;
+    background: #ffffff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+main {
+    padding: 102px 88px;
+}
+
+.main-description {
+    width: 400px;
+}
+
+.job-title {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+
+.description {
+    margin-bottom: 40px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.projects {
+    margin-bottom: 51px;
+    width: 485px;
+}
+
+.list-primary {
+    padding-left: 0;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    list-style-position: inside;
+}
+
+.list-primary-item {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    text-decoration: none;
+}
+
+.header-primary {
+    margin-bottom: 12px;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+
+.job-name {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+.highlight {
+    color: #fb6d3a;
+}
+
+.job-date {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    color: #a8a8a8;
+}
+
+.job-list {
+    padding-left: 0;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    list-style-position: inside;
+}
+
+.univesity-name {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #fb6d3a;
+}
+
+.education-branch-name {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+
+aside {
+    width: 370px;
+    background: #1e2939;
+}
+
+.cv-photo {
+    margin-top: 25px;
+}
+
+.header-secondary,
+.white {
+    color: #ffffff;
+}
+
+.contact-block {
+    margin-top: 51px;
+    margin-left: 40px;
+}
+
+.contact-links {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.tech-skills-block {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+
+.soft-skills-block {
+    margin-top: 44px;
+    margin-left: 40px;
+}
+
+.light-grey {
+    color: #8e949c;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.list-secondary {
+    margin-left: 0;
+    padding-left: 0;
+    list-style-position: inside;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fb6d3a;
+}
+
+.list-secondary-item {
+    color: #ffffff;
+}
